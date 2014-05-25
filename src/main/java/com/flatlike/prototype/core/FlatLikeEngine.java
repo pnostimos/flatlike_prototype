@@ -1,4 +1,7 @@
-package com.flatlike.prototype;
+package com.flatlike.prototype.core;
+
+import com.flatlike.prototype.model.Property;
+import com.flatlike.prototype.model.Review;
 
 import java.util.ArrayList;
 import java.util.Collections;

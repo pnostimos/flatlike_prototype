@@ -1,5 +1,8 @@
 package com.flatlike.prototype;
 
+import com.flatlike.prototype.core.FlatLikeEngine;
+import com.flatlike.prototype.model.Property;
+import com.flatlike.prototype.model.Review;
 import org.junit.Before;
 import org.junit.Test;
 

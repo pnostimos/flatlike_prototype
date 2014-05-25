@@ -1,4 +1,4 @@
-package com.flatlike.prototype;
+package com.flatlike.prototype.model;
 
 import java.util.ArrayList;
 import java.util.List;
